@@ -1,7 +1,7 @@
 {
   "projectId": "cahn34",
   
-  "baseUrl": "https://www.deepl.com/", "defaultCommandTimeout": 10000, "retries": {
+  "baseUrl": "https://www.gamecash.fr/", "defaultCommandTimeout": 10000, "retries": {
     "runMode": 2,
     "openMode": 0
   },

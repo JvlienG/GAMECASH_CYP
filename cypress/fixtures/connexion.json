@@ -1,0 +1,28 @@
+{
+    "connexionDatas":[
+        {
+            "login": "test8@yopmail.com",
+            "password": "Cacahuette9102",
+            "keepConnect": "true"
+        }
+    ],
+
+    "rechercheDatas":[
+        {
+            "search": "Call of Duty"
+        }
+    ],
+
+    "selectionDatas":[
+        {
+            "numSelect": "1"
+        }
+    ],
+
+    "panierDatas":[
+        {
+            "voirPanier": "true",
+            "numElement": "2"
+        }
+    ]
+}
