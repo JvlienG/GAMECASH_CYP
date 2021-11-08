@@ -1,17 +1,13 @@
 /// <reference types="cypress"/>
 
-// Variables test :
-const login = 'test8@yopmail.com'
-const password = 'Cacahuette9102'
-const keepConnect = true
 
 describe('Connexion', () => {
     it('Remplir les champs', () => {
-        cy.readFile('cypress/fixtures/connexion.json').then(data => {
-            for (const connexion of data.connexionDatas) { 
-                cy.get('#login').type(connexion.login)
-                cy.get('#password').type(connexion.password)
-                if(connexion.keepConnect == 'true')
+        cy.readFile('cypress/fixtures/gamecashDatas.json').then(data => {
+            for (const gamecashDatas of data.gamecashDatasDatas) { 
+                cy.get('#login').type(gamecashDatas.login)
+                cy.get('#password').type(gamecashDatas.password)
+                if(gamecashDatas.keepConnect == 'true')
                     cy.get('.autoConnect') 
             }
         })
