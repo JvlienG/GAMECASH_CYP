@@ -1,0 +1,74 @@
+{
+  "uid" : "8256893aef967d60",
+  "name" : "Recherche",
+  "fullName" : "Recherche d'article.Recherche",
+  "historyId" : "bc91307a447fc16315eeace708d27eed",
+  "time" : {
+    "start" : 1637611498717,
+    "stop" : 1637611505858,
+    "duration" : 7141
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recherche d'article"
+  }, {
+    "name" : "testClass",
+    "value" : "Recherche d'article"
+  }, {
+    "name" : "testMethod",
+    "value" : "Recherche"
+  }, {
+    "name" : "package",
+    "value" : "Recherche d'article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4527d68c1335611",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611448924,
+        "stop" : 1637611455147,
+        "duration" : 6223
+      }
+    }, {
+      "uid" : "8e97b5d9a49f69c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610205858,
+        "stop" : 1637610212239,
+        "duration" : 6381
+      }
+    }, {
+      "uid" : "55f68139f71d4da9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610121576,
+        "stop" : 1637610128659,
+        "duration" : 7083
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8256893aef967d60.json",
+  "parameterValues" : [ ]
+}

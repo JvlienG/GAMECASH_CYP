@@ -1,0 +1,74 @@
+{
+  "uid" : "bd4df2b27c2f7af1",
+  "name" : "Remplir les champs",
+  "fullName" : "Connexion.Remplir les champs",
+  "historyId" : "4db5cae11123e023e9cb9c1270416f04",
+  "time" : {
+    "start" : 1637611496072,
+    "stop" : 1637611496910,
+    "duration" : 838
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connexion"
+  }, {
+    "name" : "testClass",
+    "value" : "Connexion"
+  }, {
+    "name" : "testMethod",
+    "value" : "Remplir les champs"
+  }, {
+    "name" : "package",
+    "value" : "Connexion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e715e698557ba011",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611446067,
+        "stop" : 1637611446918,
+        "duration" : 851
+      }
+    }, {
+      "uid" : "ec1789d71f249db4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610203176,
+        "stop" : 1637610204046,
+        "duration" : 870
+      }
+    }, {
+      "uid" : "d71f8990132434e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610118726,
+        "stop" : 1637610119625,
+        "duration" : 899
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd4df2b27c2f7af1.json",
+  "parameterValues" : [ ]
+}

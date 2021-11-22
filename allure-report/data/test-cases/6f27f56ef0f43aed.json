@@ -1,0 +1,74 @@
+{
+  "uid" : "6f27f56ef0f43aed",
+  "name" : "",
+  "fullName" : "Connexion.",
+  "historyId" : "48776abd14d6511768b1f9c0e2249687",
+  "time" : {
+    "start" : 1637611496911,
+    "stop" : 1637611498706,
+    "duration" : 1795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connexion"
+  }, {
+    "name" : "testClass",
+    "value" : "Connexion"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Connexion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f7fa442c7902ec72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611446919,
+        "stop" : 1637611448916,
+        "duration" : 1997
+      }
+    }, {
+      "uid" : "f09827fd97650a29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610204046,
+        "stop" : 1637610205851,
+        "duration" : 1805
+      }
+    }, {
+      "uid" : "6e83f6df4d84c0c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610119628,
+        "stop" : 1637610121569,
+        "duration" : 1941
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f27f56ef0f43aed.json",
+  "parameterValues" : [ ]
+}

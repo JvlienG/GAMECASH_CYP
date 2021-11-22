@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637610137398' stop='1637610137937'>
+    <name>Deconnexion</name>
+    <title>Deconnexion</title>
+    <test-cases>
+        <test-case start='1637610137398' status='passed' stop='1637610137936'>
+            <name>selection mon compte</name>
+            <title>selection mon compte</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

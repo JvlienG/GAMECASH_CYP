@@ -1,0 +1,48 @@
+{
+  "uid" : "ec1789d71f249db4",
+  "name" : "Remplir les champs",
+  "fullName" : "Connexion.Remplir les champs",
+  "historyId" : "4db5cae11123e023e9cb9c1270416f04",
+  "time" : {
+    "start" : 1637610203176,
+    "stop" : 1637610204046,
+    "duration" : 870
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connexion"
+  }, {
+    "name" : "testClass",
+    "value" : "Connexion"
+  }, {
+    "name" : "testMethod",
+    "value" : "Remplir les champs"
+  }, {
+    "name" : "package",
+    "value" : "Connexion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec1789d71f249db4.json",
+  "parameterValues" : [ ]
+}

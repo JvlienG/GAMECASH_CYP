@@ -1,0 +1,70 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "03605416ca1dd57863b402e725f9d6d9",
+    "name" : "Connexion",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "3d958be8e02a1328480220ce42ca1e6f",
+    "name" : "Ajout d'un article au panier",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "e0262cd205e7719fb058106b28fc0fde",
+    "name" : "Recherche d'article",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "4b3ba35ae0fb597de6b047d43b19db1d",
+    "name" : "Selectionner l'article n",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3423e383add10d3f56a93f5f77c88d99",
+    "name" : "Visualisation du panier",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "439c899d7f1fc39020a1fb864fd8ad44",
+    "name" : "Deconnexion",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

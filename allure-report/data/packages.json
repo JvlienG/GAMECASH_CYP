@@ -1,0 +1,182 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Connexion",
+    "children" : [ {
+      "name" : "Se rendre sur la page de connexion",
+      "uid" : "d13353615232be26",
+      "parentUid" : "b8b40d40e31b9ee593c085e70b9ea577",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611495361,
+        "stop" : 1637611496071,
+        "duration" : 710
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Remplir les champs",
+      "uid" : "bd4df2b27c2f7af1",
+      "parentUid" : "b8b40d40e31b9ee593c085e70b9ea577",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611496072,
+        "stop" : 1637611496910,
+        "duration" : 838
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "",
+      "uid" : "6f27f56ef0f43aed",
+      "parentUid" : "b8b40d40e31b9ee593c085e70b9ea577",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611496911,
+        "stop" : 1637611498706,
+        "duration" : 1795
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b8b40d40e31b9ee593c085e70b9ea577"
+  }, {
+    "name" : "Recherche d'article",
+    "children" : [ {
+      "name" : "Recherche",
+      "uid" : "8256893aef967d60",
+      "parentUid" : "f9b1539b0c79df1ad314febb8eecb1ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611498717,
+        "stop" : 1637611505858,
+        "duration" : 7141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f9b1539b0c79df1ad314febb8eecb1ce"
+  }, {
+    "name" : "Selectionner l'article n",
+    "children" : [ {
+      "name" : "Selectionne un article",
+      "uid" : "43e29c8f48d77847",
+      "parentUid" : "af97ea6156b727e44c616d7aa968b2bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611505867,
+        "stop" : 1637611508073,
+        "duration" : 2206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "af97ea6156b727e44c616d7aa968b2bb"
+  }, {
+    "name" : "Ajout d'un article au panier",
+    "children" : [ {
+      "name" : "Ajout au panier",
+      "uid" : "85f4113df7fdc17b",
+      "parentUid" : "8089370eb1e97e7f7680f2f439d056af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611508082,
+        "stop" : 1637611513301,
+        "duration" : 5219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Poursuivre achat ?",
+      "uid" : "c395330429f2c379",
+      "parentUid" : "8089370eb1e97e7f7680f2f439d056af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611513301,
+        "stop" : 1637611513878,
+        "duration" : 577
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8089370eb1e97e7f7680f2f439d056af"
+  }, {
+    "name" : "Visualisation du panier",
+    "children" : [ {
+      "name" : "Se rendre dans le panier",
+      "uid" : "37f9e52893631e79",
+      "parentUid" : "603bac2a81a0459f774625210dcfc017",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611513886,
+        "stop" : 1637611514497,
+        "duration" : 611
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "603bac2a81a0459f774625210dcfc017"
+  }, {
+    "name" : "Deconnexion",
+    "children" : [ {
+      "name" : "selection mon compte",
+      "uid" : "ab9945b6ba2e543b",
+      "parentUid" : "ed2497060ea8ea8b82336e248878698f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611514503,
+        "stop" : 1637611515015,
+        "duration" : 512
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ed2497060ea8ea8b82336e248878698f"
+  } ]
+}

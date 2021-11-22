@@ -1,0 +1,91 @@
+[ {
+  "uid" : "85f4113df7fdc17b",
+  "name" : "Ajout au panier",
+  "time" : {
+    "start" : 1637611508082,
+    "stop" : 1637611513301,
+    "duration" : 5219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8256893aef967d60",
+  "name" : "Recherche",
+  "time" : {
+    "start" : 1637611498717,
+    "stop" : 1637611505858,
+    "duration" : 7141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd4df2b27c2f7af1",
+  "name" : "Remplir les champs",
+  "time" : {
+    "start" : 1637611496072,
+    "stop" : 1637611496910,
+    "duration" : 838
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43e29c8f48d77847",
+  "name" : "Selectionne un article",
+  "time" : {
+    "start" : 1637611505867,
+    "stop" : 1637611508073,
+    "duration" : 2206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37f9e52893631e79",
+  "name" : "Se rendre dans le panier",
+  "time" : {
+    "start" : 1637611513886,
+    "stop" : 1637611514497,
+    "duration" : 611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d13353615232be26",
+  "name" : "Se rendre sur la page de connexion",
+  "time" : {
+    "start" : 1637611495361,
+    "stop" : 1637611496071,
+    "duration" : 710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c395330429f2c379",
+  "name" : "Poursuivre achat ?",
+  "time" : {
+    "start" : 1637611513301,
+    "stop" : 1637611513878,
+    "duration" : 577
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab9945b6ba2e543b",
+  "name" : "selection mon compte",
+  "time" : {
+    "start" : 1637611514503,
+    "stop" : 1637611515015,
+    "duration" : 512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f27f56ef0f43aed",
+  "name" : "",
+  "time" : {
+    "start" : 1637611496911,
+    "stop" : 1637611498706,
+    "duration" : 1795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

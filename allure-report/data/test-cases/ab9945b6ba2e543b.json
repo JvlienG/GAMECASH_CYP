@@ -1,0 +1,74 @@
+{
+  "uid" : "ab9945b6ba2e543b",
+  "name" : "selection mon compte",
+  "fullName" : "Deconnexion.selection mon compte",
+  "historyId" : "35ad01e6c45aa007402e46be312378a0",
+  "time" : {
+    "start" : 1637611514503,
+    "stop" : 1637611515015,
+    "duration" : 512
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deconnexion"
+  }, {
+    "name" : "testClass",
+    "value" : "Deconnexion"
+  }, {
+    "name" : "testMethod",
+    "value" : "selection mon compte"
+  }, {
+    "name" : "package",
+    "value" : "Deconnexion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "645eeddc456b465a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611463032,
+        "stop" : 1637611463582,
+        "duration" : 550
+      }
+    }, {
+      "uid" : "9b59281bf49985dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610220556,
+        "stop" : 1637610221146,
+        "duration" : 590
+      }
+    }, {
+      "uid" : "7c9a35121d725f1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610137398,
+        "stop" : 1637610137936,
+        "duration" : 538
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab9945b6ba2e543b.json",
+  "parameterValues" : [ ]
+}

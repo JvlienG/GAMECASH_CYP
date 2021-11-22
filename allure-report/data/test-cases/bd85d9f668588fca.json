@@ -1,0 +1,48 @@
+{
+  "uid" : "bd85d9f668588fca",
+  "name" : "Selectionne un article",
+  "fullName" : "Selectionner l'article n.Selectionne un article",
+  "historyId" : "124842c8c8fcfc5593c46440cb65d046",
+  "time" : {
+    "start" : 1637610212249,
+    "stop" : 1637610214118,
+    "duration" : 1869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Selectionner l'article n"
+  }, {
+    "name" : "testClass",
+    "value" : "Selectionner l'article n"
+  }, {
+    "name" : "testMethod",
+    "value" : "Selectionne un article"
+  }, {
+    "name" : "package",
+    "value" : "Selectionner l'article n"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd85d9f668588fca.json",
+  "parameterValues" : [ ]
+}

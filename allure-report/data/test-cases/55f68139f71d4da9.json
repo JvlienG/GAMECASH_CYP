@@ -1,0 +1,48 @@
+{
+  "uid" : "55f68139f71d4da9",
+  "name" : "Recherche",
+  "fullName" : "Recherche d'article.Recherche",
+  "historyId" : "bc91307a447fc16315eeace708d27eed",
+  "time" : {
+    "start" : 1637610121576,
+    "stop" : 1637610128659,
+    "duration" : 7083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Recherche d'article"
+  }, {
+    "name" : "testClass",
+    "value" : "Recherche d'article"
+  }, {
+    "name" : "testMethod",
+    "value" : "Recherche"
+  }, {
+    "name" : "package",
+    "value" : "Recherche d'article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55f68139f71d4da9.json",
+  "parameterValues" : [ ]
+}

@@ -1,4 +1,5 @@
-/// <reference types="cypress"/>
+<reference types="cypress" />
+import HomePage from 'cypress/support/PageObject/homePage';
 
 before(() => {
     cy.log('I run once before all tests')

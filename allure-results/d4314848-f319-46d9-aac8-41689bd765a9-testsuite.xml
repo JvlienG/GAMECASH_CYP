@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637611456703' stop='1637611462449'>
+    <name>Ajout d'un article au panier</name>
+    <title>Ajout d'un article au panier</title>
+    <test-cases>
+        <test-case start='1637611456703' status='passed' stop='1637611461933'>
+            <name>Ajout au panier</name>
+            <title>Ajout au panier</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1637611461933' status='passed' stop='1637611462449'>
+            <name>Poursuivre achat ?</name>
+            <title>Poursuivre achat ?</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

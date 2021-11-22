@@ -7,6 +7,27 @@
         }
     ],
 
+    "creationDatas": [
+        {
+            "email": "test12@yopmail.com",
+            "password": "azertyuiop",
+            "nickame": "SuperU123456789",
+            "genre": "h",
+            "nom": "West",
+            "prenom": "Julien",
+            "portable": "0499492619",
+            "birthDate": "01/01/1990",
+            "adresse": "4 avenue Laurent Cely",
+            "pays": "be",
+            "zipCode": "92600",
+            "city": "Asnieres",
+            "number": "2",
+            "condition": "1",
+            "gamecashOffer": "1",
+            "partenaireOffer": "0"
+        }
+    ],
+
     "rechercheDatas":[
         {
             "search": "Call of Duty"

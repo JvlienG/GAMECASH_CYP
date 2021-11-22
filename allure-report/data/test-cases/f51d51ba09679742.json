@@ -1,0 +1,48 @@
+{
+  "uid" : "f51d51ba09679742",
+  "name" : "Poursuivre achat ?",
+  "fullName" : "Ajout d'un article au panier.Poursuivre achat ?",
+  "historyId" : "f138a9bad4987b79f502c0484805893e",
+  "time" : {
+    "start" : 1637610219401,
+    "stop" : 1637610219942,
+    "duration" : 541
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Ajout d'un article au panier"
+  }, {
+    "name" : "testClass",
+    "value" : "Ajout d'un article au panier"
+  }, {
+    "name" : "testMethod",
+    "value" : "Poursuivre achat ?"
+  }, {
+    "name" : "package",
+    "value" : "Ajout d'un article au panier"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f51d51ba09679742.json",
+  "parameterValues" : [ ]
+}

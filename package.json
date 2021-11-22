@@ -5,10 +5,25 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
+
   "homepage": "https://github.com/JvlienG/GAMECASH_CYP#readme",
   
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "allure:open": "allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "allure:clear": "if [ -f \"allure-results\" ]; then rmdir /q /s allure-results; fi && if [ -f \"allure-report\" ]; then rmdir /q /s allure-report; fi && if [ -f \"cypress/screenshots\" ]; then rmdir /q /s cypress/screenshots; fi && if [ -f \"cypress/videos\" ]; then rmdir /q /s cypress/videos; fi",
+
+      "scenario1": "npx cypress run --spec cypress/integration/Mon_projet/javascriptFeatures/Scenario1.js",
+    
+
+      "scenario2": "npx cypress run --spec cypress/integration/Mon_projet/javascriptFeatures/Scenario2.js",
+      
+      
+      "scenario3": "npx cypress run --spec cypress/integration/Mon_projet/javascriptFeatures/Scenario3.js",
+
+    "test:run1": "npm allure:clear; npm run scenario1; npm run allure:open;",
+    "test:run2": "npm allure:clear; npm run scenario12 npm run allure:open;",
+    "test:run3": "npm allure:clear; npm run scenario3; npm run allure:open;"
   },
   
   "repository": {
@@ -21,12 +36,20 @@
   },
   
   "devDependencies": {
+    "allure-commandline": "^2.13.8",
     "cypress": "^8.7.0",
-    "cypress-cucumber-preprocessor": "^4.3.0"
+    "cypress-cucumber-preprocessor": "^4.3.0",
+    "cypress-xpath": "^1.6.2",
+    "mocha-allure-reporter": "^1.4.0",
+    "soft-assert": "^0.2.6"
   },
 
   "cypress-cucumber-preprocessor": { 
     "nonGlobalStepDefinitions": false,
     "stepDefinitions" : "cypress/cucumber/stepDefinitions"
+  },
+
+  "dependencies": {
+    "cypress-real-events": "^1.5.1"
   }
 }

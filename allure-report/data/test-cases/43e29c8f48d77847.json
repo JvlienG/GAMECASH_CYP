@@ -1,0 +1,74 @@
+{
+  "uid" : "43e29c8f48d77847",
+  "name" : "Selectionne un article",
+  "fullName" : "Selectionner l'article n.Selectionne un article",
+  "historyId" : "124842c8c8fcfc5593c46440cb65d046",
+  "time" : {
+    "start" : 1637611505867,
+    "stop" : 1637611508073,
+    "duration" : 2206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Selectionner l'article n"
+  }, {
+    "name" : "testClass",
+    "value" : "Selectionner l'article n"
+  }, {
+    "name" : "testMethod",
+    "value" : "Selectionne un article"
+  }, {
+    "name" : "package",
+    "value" : "Selectionner l'article n"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa632cef8e3b3fa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611455154,
+        "stop" : 1637611456698,
+        "duration" : 1544
+      }
+    }, {
+      "uid" : "bd85d9f668588fca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610212249,
+        "stop" : 1637610214118,
+        "duration" : 1869
+      }
+    }, {
+      "uid" : "1080dfbdc164aa37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610128666,
+        "stop" : 1637610130796,
+        "duration" : 2130
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43e29c8f48d77847.json",
+  "parameterValues" : [ ]
+}

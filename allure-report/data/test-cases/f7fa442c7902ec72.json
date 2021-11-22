@@ -1,0 +1,48 @@
+{
+  "uid" : "f7fa442c7902ec72",
+  "name" : "",
+  "fullName" : "Connexion.",
+  "historyId" : "48776abd14d6511768b1f9c0e2249687",
+  "time" : {
+    "start" : 1637611446919,
+    "stop" : 1637611448916,
+    "duration" : 1997
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connexion"
+  }, {
+    "name" : "testClass",
+    "value" : "Connexion"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Connexion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7fa442c7902ec72.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "543b84d022a5fa8",
+  "name" : "Se rendre sur la page de connexion",
+  "fullName" : "Connexion.Se rendre sur la page de connexion",
+  "historyId" : "f9d985df4ae6752a5f1862792be26f7a",
+  "time" : {
+    "start" : 1637610202598,
+    "stop" : 1637610203176,
+    "duration" : 578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connexion"
+  }, {
+    "name" : "testClass",
+    "value" : "Connexion"
+  }, {
+    "name" : "testMethod",
+    "value" : "Se rendre sur la page de connexion"
+  }, {
+    "name" : "package",
+    "value" : "Connexion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "543b84d022a5fa8.json",
+  "parameterValues" : [ ]
+}

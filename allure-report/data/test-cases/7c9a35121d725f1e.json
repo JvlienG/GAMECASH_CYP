@@ -1,0 +1,48 @@
+{
+  "uid" : "7c9a35121d725f1e",
+  "name" : "selection mon compte",
+  "fullName" : "Deconnexion.selection mon compte",
+  "historyId" : "35ad01e6c45aa007402e46be312378a0",
+  "time" : {
+    "start" : 1637610137398,
+    "stop" : 1637610137936,
+    "duration" : 538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Deconnexion"
+  }, {
+    "name" : "testClass",
+    "value" : "Deconnexion"
+  }, {
+    "name" : "testMethod",
+    "value" : "selection mon compte"
+  }, {
+    "name" : "package",
+    "value" : "Deconnexion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c9a35121d725f1e.json",
+  "parameterValues" : [ ]
+}

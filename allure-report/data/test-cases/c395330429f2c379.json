@@ -1,0 +1,74 @@
+{
+  "uid" : "c395330429f2c379",
+  "name" : "Poursuivre achat ?",
+  "fullName" : "Ajout d'un article au panier.Poursuivre achat ?",
+  "historyId" : "f138a9bad4987b79f502c0484805893e",
+  "time" : {
+    "start" : 1637611513301,
+    "stop" : 1637611513878,
+    "duration" : 577
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Ajout d'un article au panier"
+  }, {
+    "name" : "testClass",
+    "value" : "Ajout d'un article au panier"
+  }, {
+    "name" : "testMethod",
+    "value" : "Poursuivre achat ?"
+  }, {
+    "name" : "package",
+    "value" : "Ajout d'un article au panier"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a31b95badcfa7dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637611461933,
+        "stop" : 1637611462449,
+        "duration" : 516
+      }
+    }, {
+      "uid" : "f51d51ba09679742",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610219401,
+        "stop" : 1637610219942,
+        "duration" : 541
+      }
+    }, {
+      "uid" : "e3accea79259ed3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637610136030,
+        "stop" : 1637610136742,
+        "duration" : 712
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c395330429f2c379.json",
+  "parameterValues" : [ ]
+}

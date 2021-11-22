@@ -1,0 +1,48 @@
+{
+  "uid" : "d3202f5b4badd08d",
+  "name" : "Se rendre dans le panier",
+  "fullName" : "Visualisation du panier.Se rendre dans le panier",
+  "historyId" : "1bded40cdb4efc33dc6017648eaf081",
+  "time" : {
+    "start" : 1637611462453,
+    "stop" : 1637611463026,
+    "duration" : 573
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Visualisation du panier"
+  }, {
+    "name" : "testClass",
+    "value" : "Visualisation du panier"
+  }, {
+    "name" : "testMethod",
+    "value" : "Se rendre dans le panier"
+  }, {
+    "name" : "package",
+    "value" : "Visualisation du panier"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3202f5b4badd08d.json",
+  "parameterValues" : [ ]
+}

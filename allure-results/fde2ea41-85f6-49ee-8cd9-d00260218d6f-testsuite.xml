@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1637611495308' stop='1637611498707'>
+    <name>Connexion</name>
+    <title>Connexion</title>
+    <test-cases>
+        <test-case start='1637611495361' status='passed' stop='1637611496071'>
+            <name>Se rendre sur la page de connexion</name>
+            <title>Se rendre sur la page de connexion</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1637611496072' status='passed' stop='1637611496910'>
+            <name>Remplir les champs</name>
+            <title>Remplir les champs</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1637611496911' status='passed' stop='1637611498706'>
+            <name></name>
+            <title></title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
